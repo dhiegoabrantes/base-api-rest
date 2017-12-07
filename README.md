@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/dhiegoabrantes/udacity-your-first-app.svg?branch=master)](https://travis-ci.org/dhiegoabrantes/udacity-your-first-app)
+[![Build Status](https://travis-ci.org/dhiegoabrantes/base-api-rest.svg?branch=master)](https://travis-ci.org/dhiegoabrantes/base-api-rest)
 
 # base-api-rest
